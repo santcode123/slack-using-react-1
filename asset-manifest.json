@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/slack-using-react-1/static/css/main.db425ec6.css",
+    "main.js": "/slack-using-react-1/static/js/main.cac8d0b9.js",
+    "static/media/UserProfile3.png": "/slack-using-react-1/static/media/UserProfile3.37409644d5421c5882b7.png",
+    "static/media/UserProfile1.png": "/slack-using-react-1/static/media/UserProfile1.84520ae4539e55f5db04.png",
+    "static/media/UserProfile.png": "/slack-using-react-1/static/media/UserProfile.00f4f37bfd63382fd77e.png",
+    "static/media/UserProfile2.png": "/slack-using-react-1/static/media/UserProfile2.f14892d6e0ece5904f66.png",
+    "static/media/channel.jpg": "/slack-using-react-1/static/media/channel.2ecebafe02dc876dae80.jpg",
+    "static/media/SendButton.png": "/slack-using-react-1/static/media/SendButton.da1aa7712ba06aed6c58.png",
+    "static/media/ArrowDown.jpg": "/slack-using-react-1/static/media/ArrowDown.97cf9f364c0901ea8e26.jpg",
+    "index.html": "/slack-using-react-1/index.html",
+    "main.db425ec6.css.map": "/slack-using-react-1/static/css/main.db425ec6.css.map",
+    "main.cac8d0b9.js.map": "/slack-using-react-1/static/js/main.cac8d0b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db425ec6.css",
+    "static/js/main.cac8d0b9.js"
+  ]
+}
